@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript and trying to write 10 lines of code a day!
+- What I'm working on right now!
+    - Currently working on the ASU Cyber Security Website as a developer
+    - Developing an ambassador program for Shore Buddies
+    - Working daily on the programming team at iCoStore, LLC
 - 📫 How to reach me: kylemuncie@live.com
-- ⚡ Fun fact: I love competitve sports!
 - Some of my handles:
     -LinkedIn: Kyle Muncie
     -Twitter: MuncieKyle
