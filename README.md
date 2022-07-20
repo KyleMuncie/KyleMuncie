@@ -6,8 +6,8 @@
     - Working daily as a software engineer for the programming team at iCoStore, LLC
     - Learning new languages daily while streaming on http://twich.tv/sycendice
 - 📫 How to reach me: kmuncie@asu.adu
-- Some of my handles:
-    -LinkedIn: Kyle Muncie
-    -Twitter: MuncieKyle
-    -Instagram: kyle_muncie
-
+- <li>Some of my handles:</li>
+    <ul>-LinkedIn: Kyle Muncie</ul>
+    <ul>-Twitter: MuncieKyle</ul>
+    <ul>-Instagram: kyle_muncie</ul>
+</li>
