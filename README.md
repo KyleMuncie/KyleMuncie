@@ -31,7 +31,7 @@
 </div>
 </br>
 
-Hello, my name is Kyle Muncie. I am currently working at iCoStore, LLC as a Full Stack Software Engineer. I graduated from the Fulton School of Engineering at Arizona State University with a degree in Computer Science in December 2022. What brought me into programming was my ambition to build while constantly learning. Some short term goals I have are to get a job in FAANG/MANGA, complete the Grind 75, which is a compilation of LeetCode questions that will prepare me for technical interviews, and also build a personal website. A long term goal for me it to travel to various countries to explore, eat food, and sight see with my friends and family. When I am not coding or working, I am usually playing video games, watching youtube, or eating good food with friends! I look forward to connect with you!
+Hello, my name is Kyle Muncie. I am currently working at iCoStore, LLC as a Full Stack Software Engineer. I graduated from the Fulton School of Engineering at Arizona State University with a degree in Computer Science in December 2022. What brought me into programming was my ambition to build while constantly learning. Some short term goals I have are to get a job in FAANG/MANGA, complete the Grind 75, which is a compilation of LeetCode questions that will prepare me for technical interviews, and also build a personal website. A long term goal for me is to travel to various countries to explore, eat food, and sight see with my friends and family. When I am not coding or working, I am usually playing video games, watching youtube, or eating good food with friends! I look forward to connect with you!
 
 <h3>My current Software stack I am using at work</h3>
 <ul>
