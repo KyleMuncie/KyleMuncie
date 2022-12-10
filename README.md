@@ -29,8 +29,30 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=KyleMuncie&style=flat-square&color=blue" alt=""/>
 </div>
+</br>
+
+Hello, my name is Kyle Muncie. I am currently working at iCoStore, LLC as a Full Stack Software Engineer. I graduated from the Fulton School of Engineering at Arizona State University with a degree in Computer Science in December 2022. What brought me into programming was my ambition to build while constantly learning. Some short term goals I have are to get a job in FAANG/MANGA, complete the Grind 75, which is a compilation of LeetCode questions that will prepare me for technical interviews, and also build a personal website. A long term goal for me it to travel to various countries to explore, eat food, and sight see with my friends and family. When I am not coding or working, I am usually playing video games, watching youtube, or eating good food with friends! I look forward to connect with you!
+
+<h3>My current Software stack I am using at work</h3>
+<ul>
+    <li>Web Applications: .NET Core, .NET MVC, .NET AJAX, ASP.NET</li>
+    <li>Frameworks & Languages: .NET Core, .NET MVC, C#</li>
+    <li>Data Providers and DBMS: SQL Server</li>
+    <li>Security: Internet Information Services (IIS), HTTPS/SSL</li>
+    <li>UI: .NET Controls, HTML, CSS, JQuery, JavaScript</li>
+    <li>Data Access: LINQ, Entity Framework</li>
+    <li>Web Services: REST, .NET Web Services, JSON, .NET Core Web Services</li>
+</ul>
+
+<h3>My current tech stack I am using at work</h3>
+<ul>
+    <li>IDE: Visual Studio, SQL Server Management, Dev Tools</li>
+    <li>text/code editor: Sublime Text, Notepad++</li>
+    <li>Git Control: SourceTree</li>
+</ul>
+
 <div align="center" id="tools">
-    <h2>:hammer_and_wrench: Primary Languages and Tools :</h2>
+    <h2>:hammer_and_wrench: Primary Languages and Tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,7 +71,7 @@
 </div>
 
 <div align="center" id="tools">
-    <h2>:hammer_and_wrench: Secondary Languages and Tools :</h2>
+    <h2>:hammer_and_wrench: Secondary Languages and Tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  title="c++" alt="c++" width="40" height="40"/>&nbsp;
@@ -81,16 +103,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xCode" alt="xCode" width="40" height="40"/>
 </div>
 
-### Hi there 👋
-
-- What I'm working on right now!
-    - Currently working on the ASU Cyber Security Website as a developer
-    - Developing an ambassador program for Shore Buddies
-    - Working daily as a software engineer for the programming team at iCoStore, LLC
-    - Learning new languages daily while streaming on http://twich.tv/sycendice
-- 📫 How to reach me: kmuncie@asu.adu
-- <li>Some of my handles:</li>
-    <ul>-LinkedIn: Kyle Muncie</ul>
-    <ul>-Twitter: MuncieKyle</ul>
-    <ul>-Instagram: kyle_muncie</ul>
-</li>
+<div align="center" id="stats">
+    <h2>:fire: My Stats</h2>
+</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KyleMuncie&theme=dark&background=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleMuncie&layout=compact&theme=vision-friendly-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KyleMuncie&show_icons=true&theme=radical"/>
